@@ -6,3 +6,7 @@ Nosaltes durant aquesta versió 1 no hem aconseguit cumplir amb tots els passos 
 VIDEO:
 https://mail.google.com/mail/u/0?ui=2&ik=8deecceb0a&attid=0.1&permmsgid=msg-f:1846230090124787296&th=199f207c37867e60&view=att&disp=safe&realattid=199f205354673d6935f1&zw
 
+https://drive.google.com/file/d/1L8MmuHGUYzk3Fw5PDx3Sk3lThohy9duL/view?usp=drive_link
+
+
+
