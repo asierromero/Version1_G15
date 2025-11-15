@@ -17,6 +17,7 @@ En aquest temps hem acabat el que ens faltaba per acabar de la versio 1 i hem co
 Hem tingut algunes dificultats en ajuntar aquest codis i per aixo com no esta del tot be no hi ha video. Ens assegurarem que per a la versio 3 estara tot fet.
 
 VIDEO V2:
+https://drive.google.com/file/d/17cMnbxN7gR1Ks_FBl84Vf93BH628MKZ-/view?usp=sharing
 
 
 
