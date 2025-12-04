@@ -19,5 +19,8 @@ Hem tingut algunes dificultats en ajuntar aquest codis i per aixo com no esta de
 VIDEO V2:
 https://drive.google.com/file/d/17cMnbxN7gR1Ks_FBl84Vf93BH628MKZ-/view?usp=sharing
 
+VERSION 3:
+Tenim tot el que demana menys el funcionament del servo, cosa que provoca que no surtin les dades al radar, i també no tenim les la gràfica de les òrbites
+
 
 
